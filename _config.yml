@@ -18,7 +18,7 @@ avatar: /images/logo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email: ao.morozov@phystech.edu
   facebook:
   flickr:
   github: amrzv
@@ -29,7 +29,10 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
+  scholar: 7jVFeGAAAAAJ
+  mlru: a_m0r0z0v
+  researchgate: Aleksey_Morozov2
+  stepic: 15947613
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
