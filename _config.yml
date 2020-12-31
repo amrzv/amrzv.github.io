@@ -9,7 +9,7 @@ name: Aleksey Morozov
 description: PhD student at MIPT
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/logo.jpg
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
-  github: https://github.com/amrzv
+  github: amrzv
   instagram:
-  linkedin: https://www.linkedin.com/in/ao-morozov/
+  linkedin: ao-morozov
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
