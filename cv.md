@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv
-redirect_from:
+redirect_to:
   - /cv/beautiful_cv.html
 ---
 
