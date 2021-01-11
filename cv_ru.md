@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/ru
+permalink: /cv_ru
 ---
 
 {% include beautiful_cv.html %}

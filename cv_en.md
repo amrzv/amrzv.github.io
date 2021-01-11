@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/en
+permalink: /cv_en
 ---
 
 {% include ./cv/index.html %}
