@@ -4,4 +4,4 @@ title: CV
 permalink: /cv
 ---
 
-{% include beautiful_cv.html %}
+{% include cv_ru.html %}
