@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /cv_en
+permalink: /cv
 redirect_from:
+  - /cv_en
   - /cv/
-  - /cv
-
 ---
 
 {% include cv_en.html %}
